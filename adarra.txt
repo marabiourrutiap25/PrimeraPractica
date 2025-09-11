@@ -1,0 +1,1 @@
+txt hau zureizenaadarrean sortu da eta masterrean kopia bat egongo da merge egitean.
